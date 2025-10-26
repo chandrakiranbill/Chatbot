@@ -1,4 +1,4 @@
-# TermBot — Django + ChatterBot (Python 3.13.9, Windows)
+# Chatbot — Django + ChatterBot (Python 3.13.9, Windows)
 
 
 ---
