@@ -19,7 +19,7 @@
 
 1) **Creating and activating virtual environment**
 ```powershell
-cd "C:\path\to\termbot"
+cd "C:\path\to\chatbot"
 py -3.13 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
